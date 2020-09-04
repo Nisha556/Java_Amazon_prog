@@ -56,8 +56,6 @@ minimum element from it. */
 		return x; 
 	} 
 
-	/* Driver program to test SpecialStack 
-methods */
 	public static void main(String[] args) 
 	{ 
 		SpecialStack s = new SpecialStack(); 
